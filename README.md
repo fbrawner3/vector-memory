@@ -1,4 +1,5 @@
 # Hybrid Vector Memory: Replacing a Hierarchical Note API with RAG
+![vector-memory](docs/images/rag-logo.png)
 
 Migrated the shared memory layer for a fleet of four AI coding agents (Claude Code, Codex, Antigravity, Gemini) from a hierarchical note API to a hybrid retrieval-augmented memory engine, exposed through this MCP gateway as `search_memory`, `write_memory`, and `delete_memory`.
 
